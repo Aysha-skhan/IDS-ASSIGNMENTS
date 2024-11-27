@@ -20,7 +20,7 @@ Assignments are located in the `assignments` folder. Each assignment folder cont
 - `solution.ipynb` – Solution notebook with code and explanations
 
 ## Labs
-Labs are located in the `labs` folder. Labs provide hands-on experience with various data science techniques and tools. Each lab folder contains:
+Labs are located in the `labs` folder. Labs provide hands-on experience with various data science techniques and tools.
 - `instructions.md` – Step-by-step instructions for the lab session
 - `notebook.ipynb` – Notebook used during the lab
 - `data/` – Supporting data files for the lab
