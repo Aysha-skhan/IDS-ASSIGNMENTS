@@ -1,6 +1,6 @@
 # Introduction to Data Science
 
-This repository contains materials for the **Introduction to Data Science** course, including assignments, labs, and additional resources. The repository is organized by topic and assignment to facilitate easy navigation.
+This repository contains materials for the **Introduction to Data Science** course, including assignments, labs, and additional resources.
 
 ## Table of Contents
 - [Course Overview](#course-overview)
