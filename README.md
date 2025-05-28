@@ -2,14 +2,6 @@
 
 This repository contains materials for the **Introduction to Data Science** course, including assignments, labs, and additional resources.
 
-## Table of Contents
-- [Course Overview](#course-overview)
-- [Assignments](#assignments)
-- [Labs](#labs)
-- [Resources](#resources)
-- [Getting Started](#getting-started)
-- [Contact](#contact)
-
 ## Course Overview
 The **Introduction to Data Science** course covers foundational concepts in data science, including data cleaning, exploratory data analysis, visualization, statistical analysis, and machine learning. Throughout the course, we use Python and popular libraries like pandas, NumPy, Matplotlib, and scikit-learn.
 
